@@ -1,0 +1,4 @@
+build/
+.DS_Store
+# Transparent source artwork; the app icon is AppIcon.png
+icon.png
